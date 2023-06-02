@@ -16,12 +16,13 @@ public class OddEvenNumbers {
 //			else {
 //				System.out.println("odd: "+arr[i]);
 //			}
-		//two digit numbers
-//			if(arr[i]>9&&arr[i]<100) {
-//				System.out.println("Two digit number :"+arr[i]);
+	//	two digit numbers
+			if(arr[i]>9&&arr[i]<100) {
+				System.out.println("Two digit number :"+arr[i]);
 			}
 		System.out.println("Even sum :"+sum);
 		}
 	}
+}
 
 
