@@ -64,7 +64,8 @@ public class ArrayListDemo1 {
 			Iterator itr=al.iterator();//getting the Iterator  
 			  while(itr.hasNext())//check if iterator has the elements  
 			  {
-			   System.out.println(itr.next());//printing the element and move to next  
+			   System.out.print(itr.next());//printing the element and move to next  
+			  
 			  }  
 		 
 		 
