@@ -4,7 +4,7 @@ public class OddEvenNumbers {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] arr= {1,22,3,4,5,6,77,8,9,10};
+		int[] arr= {0,1,22,3,4,5,6,77,8,9,10};
 		int sum=0;
 		for(int i=0;i<arr.length;i++) {
 	//	even numbers
